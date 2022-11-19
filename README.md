@@ -28,30 +28,19 @@
 
   ### 📶 DEPLOYEMENT SUPPORT
 
-<details><summary>Deploy To Koyeb</summary>
+<details><summary>🔥 Deploy To Koyeb 🔥</summary>
 <p>
 <br>                 
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT&branch=main&name=pyro-rename-bot">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT&branch=main&name=lazy-gangster-baby">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
 
-
-<details><summary>Deploy To Railway</summary>
-<p>
-<br>
-<a href="https://railway.app/new/template/OX7-wG">
-  <img src="https://railway.app/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
