@@ -1,7 +1,7 @@
 <img src="https://telegra.ph/file/e01b2016af8ab7b7616dc.png" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https:/telegram.me/LazyDeveloper" target="/blank"> Lazy Renamer ultra-Pro-max </a></>
+ <b><a href="https://telegram.me/LazyDeveloper" target="/blank"> Gangster Baby ( Renamer BOT ) </a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
@@ -31,7 +31,7 @@
 <details><summary>🔥 Deploy To Koyeb 🔥</summary>
 <p>
 <br>                 
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT&branch=main&name=lazy-gangster-baby" target="/blank">
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT&branch=main&name=lazy-gangster-baby" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
