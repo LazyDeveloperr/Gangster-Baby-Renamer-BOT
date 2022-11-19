@@ -14,14 +14,14 @@ async def add_caption(client, message):
 async def delete_caption(client, message):
     caption = await db.get_caption(message.from_user.id)  
     if not caption:
-       return await message.reply_text("__**😔 𝚈𝙾𝚄 𝙳𝙾𝙽𝚃 𝙷𝙰𝚅𝙴 𝙰𝙽𝚈 𝙲𝙰𝙿𝚃𝙸𝙾𝙽**__")
+       return await message.reply_text("😔**Sorry ! No Caption found...**😔")
     await db.set_caption(message.from_user.id, caption=None)
-    await message.reply_text("__**❌️ 𝚈𝙾𝚄𝚁 𝙲𝙰𝙿𝚃𝙸𝙾𝙽 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙳𝙴𝙻𝙴𝚃𝙴𝙳**__")
+    await message.reply_text("**** Your Caption deleted successfully**✅️")
                                        
 @Client.on_message(filters.private & filters.command('see_caption'))
 async def see_caption(client, message):
     caption = await db.get_caption(message.from_user.id)  
     if caption:
-       await message.reply_text(f"**𝚈𝙾𝚄𝚁 𝙲𝙰𝙿𝚃𝙸𝙾𝙽:-**\n\n`{caption}`")
+       await message.reply_text(f"**Your Caption:-**\n\n`{caption}`")
     else:
-       await message.reply_text("__**😔 𝚈𝙾𝚄 𝙳𝙾𝙽𝚃 𝙷𝙰𝚅𝙴 𝙰𝙽𝚈 𝙲𝙰𝙿𝙸𝙾𝙽**__")
+       await message.reply_text("😔**Sorry ! No Caption found...**😔")
