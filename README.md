@@ -91,6 +91,9 @@
 - [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
 - [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
 
+### ❤️ Thanking 😘
+- 🤩 Thank You [Team-Pyro](https://github.com/TEAM-PYRO-BOTZ) For this awesome src 😘
+
 ### 🤩 INSPIRATION
 <a href="#">
    <p>❣️ PYRO 🔥</p>
