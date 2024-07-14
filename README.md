@@ -11,7 +11,7 @@
 
 * `BOT_TOKEN`  - Get bot token from @BotFather
 
-* `API_ID` - From my.telegram.org 
+* `API_ID` - Get api id From my.telegram.org 
 
 * `API_HASH` - From my.telegram.org 
 
